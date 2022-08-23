@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Table should match snapshot Table component 1`] = `
+<div>
+  <div
+    class="sc-jSgupP hcVCpe"
+  >
+    <div
+      class="sc-gsTCUz gaWnRm"
+      height="500px"
+      opacity="0.6"
+    />
+    <div
+      class="sc-gKsewC cZdIh"
+    >
+      <div
+        class="sc-bdfBwQ tXWSF"
+      >
+        Nothing Found
+      </div>
+    </div>
+  </div>
+</div>
+`;

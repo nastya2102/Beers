@@ -1,0 +1,66 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BeerItem should match snapshot BeerItem component 1`] = `
+<div>
+  <div
+    class="sc-eCssSg VkFkB"
+  >
+    <div
+      class="sc-jSgupP bzoAXb"
+    >
+      <div
+        class="sc-iBPRYJ gpjgM"
+      >
+        <span>
+          457
+        </span>
+      </div>
+      <div
+        class="sc-gsTCUz esqFhx"
+        height="500px"
+      />
+    </div>
+    <div
+      class="sc-gKsewC dcdIQI"
+    >
+      <div
+        class="sc-bdfBwQ tXWSF"
+      />
+      <div
+        class="sc-kEjbxe gFLfWc"
+      >
+        Since 
+        <span>
+          457
+        </span>
+      </div>
+      <div
+        class="sc-fubCfw bmDaIS"
+      >
+        <span>
+          123
+        </span>
+      </div>
+      <div
+        class="sc-pFZIQ jIGNkE"
+      >
+        <span>
+          457
+        </span>
+      </div>
+      <div
+        class="sc-pFZIQ jIGNkE"
+      >
+        <span
+          class="sc-jrAGrp jaUFKk"
+        >
+          Brewers tips: 
+        </span>
+        <span>
+          457
+        </span>
+      </div>
+    </div>
+  </div>
+</div>
+`;

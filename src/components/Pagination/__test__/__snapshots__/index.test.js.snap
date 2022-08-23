@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pagination should match snapshot Pagination component 1`] = `
+<div>
+  <div
+    class="sc-bdfBwQ bEhSYe"
+  >
+    <span
+      class="sc-gsTCUz gkrfUS"
+      disabled=""
+    >
+      «
+    </span>
+    <span
+      class="sc-gsTCUz dlHzSm"
+    >
+      -3
+    </span>
+    <span
+      class="sc-gsTCUz dlHzSm"
+    >
+      -2
+    </span>
+    <span
+      class="sc-gsTCUz dlHzSm"
+    >
+      -1
+    </span>
+    <span
+      class="sc-gsTCUz dlHzSm"
+    >
+      0
+    </span>
+    <span
+      class="sc-gsTCUz bKyJRQ"
+    >
+      1
+    </span>
+    <span
+      class="sc-gsTCUz gkrfUS"
+      disabled=""
+    >
+      »
+    </span>
+  </div>
+</div>
+`;

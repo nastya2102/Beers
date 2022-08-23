@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PolarChart should match snapshot PolarChart component 1`] = `
+<div>
+  <canvas
+    height="150"
+    width="300"
+  />
+</div>
+`;

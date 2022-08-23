@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NothingFound should match snapshot NothingFound component 1`] = `
+<div>
+  <div
+    class="sc-dlfnbm cndSYm"
+  >
+    <div
+      class="sc-gsTCUz gaWnRm"
+      height="500px"
+      opacity="0.6"
+    />
+    <div
+      class="sc-hKgILt hzbxSK"
+    >
+      <div
+        class="sc-bdfBwQ tXWSF"
+      >
+        Nothing Found
+      </div>
+    </div>
+  </div>
+</div>
+`;

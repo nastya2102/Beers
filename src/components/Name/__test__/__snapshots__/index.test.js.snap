@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Name should match snapshot Name component 1`] = `
+<div>
+  <div
+    class="sc-bdfBwQ tXWSF"
+  >
+    <span>
+      123
+    </span>
+  </div>
+</div>
+`;

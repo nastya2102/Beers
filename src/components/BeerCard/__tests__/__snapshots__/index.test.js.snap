@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BeerCard should match snapshot BeerCard component 1`] = `
+<div>
+  <div
+    class="sc-dlfnbm dfiElR"
+  >
+    <div
+      class="sc-hKgILt cfsMEj"
+    >
+      <span>
+        457
+      </span>
+      %
+    </div>
+    <div
+      class="sc-gsTCUz fwkMwk"
+    />
+    <div
+      class="sc-bdfBwQ tXWSF"
+    />
+    <div
+      class="sc-eCssSg jgjKLH"
+    >
+      <span>
+        123
+      </span>
+    </div>
+  </div>
+</div>
+`;
